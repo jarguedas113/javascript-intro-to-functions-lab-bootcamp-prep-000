@@ -28,6 +28,6 @@ function sayHiToGrandma (string) {
 
 function sayHiToGrandma (string) {
  var mixedCase = "I love you, too.";
-  if (string.mixedCase(string) === string)
+  if (string.to(string) === string)
   return mixedCase;
 }
