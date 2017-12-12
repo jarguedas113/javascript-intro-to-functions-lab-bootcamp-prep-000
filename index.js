@@ -1,5 +1,5 @@
 function shout (aWord) {
-  return aWord.toUpperCase( );
+  return aWord.toUpperCase( )
 }
 
 function whisper(string) {
