@@ -1,5 +1,5 @@
 function shout (aWord) {
-  return aWord.toUpperCase( );S
+  return aWord.toUpperCase( );
 }
 
 function whisper(string) {
@@ -10,7 +10,5 @@ function logShout (string) {
   console.log(string.toUpperCase( ));
 }
 
-function sayHiToGrandma(string) {
-return string.toLowerCase()=== lowercase
-  
-}
+function logWhisper (aWord) {
+  console.log(aWord.toLowerCase( ));
